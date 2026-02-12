@@ -1,4 +1,4 @@
-# Daniel Rodriguez | Systems Architect & Ontological Engineer
+# Daniel Rodriguez | Ontological Systems Architect
 
 ## 🌌 Overview
 Founder and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Large Language Models (LLMs). My work focuses on the intersection of human intuition and deterministic AI alignment.
@@ -27,4 +27,4 @@ I have developed a proprietary 5-node recursive architecture designed to:
 * **Focus:** Logic Integrity | AI Safety | Structural Design.
 
 ---
-*Self-taught. Driven by rigor. Built on 60 days of continuous calibration.*
+*Self-taught. Driven by rigor. Built on + 60 days of continuous calibration.*
