@@ -1,7 +1,7 @@
 # Daniel Rodriguez | Ontological Systems Architect
 
 ## 🌌 Overview
-Founder and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Large Language Models (LLMs). My work focuses on the intersection of Inference Control Engineering and Deterministic AI alignment.
+Founder and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Language Models (LLMs & SLMs). My work focuses on the intersection of Inference Control Engineering and Deterministic AI alignment.
 
 ---
 
@@ -16,7 +16,7 @@ I have developed a proprietary 5-node recursive architecture designed to:
 ---
 
 ## 🏗 Current Projects
-* [Framework-HL-V5](https://github.com/danielrodriguezGH/Framework-HL-V5) - A high-precision methodology for LLM logic stabilization.
+* [Framework-HL-V5](https://github.com/danielrodriguezGH/Framework-HL-V5) - A high-precision methodology for LLM & SLM logic stabilization.
 * **Sincrodia Protocols** - Research on recursive feedback loops between human operators and AI.
 
 ---
