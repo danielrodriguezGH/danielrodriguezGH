@@ -1,7 +1,7 @@
-# Daniel Rodriguez | Ontological Systems Architect
+# Daniel Rodriguez | AI Lead Inference Architect
 
 ## 🌌 Overview
-Founder and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Language Models (LLMs & SLMs). My work focuses on the intersection of Inference Control Engineering and Deterministic AI alignment.
+Creator and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Language Models (LLMs & SLMs). My work focuses on the intersection of Inference Control Engineering and Deterministic AI alignment.
 
 ---
 
