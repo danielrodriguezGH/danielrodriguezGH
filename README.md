@@ -27,4 +27,4 @@ I have developed a proprietary 5-node recursive architecture designed to:
 * **Focus:** Logic Integrity | AI Safety | Structural Design.
 
 ---
-Developer of proprietary architecture. Driven by rigor. Built on + 70 days of continuous calibration.*
+*Developer of proprietary architecture. Driven by rigor. Built on + 70 days of continuous calibration.*
