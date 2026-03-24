@@ -1,4 +1,4 @@
-# Daniel Rodriguez | AI Solutions Architect
+# Daniel Rodriguez | AI Solutions Architecture
 
 ## 🌌 Overview
 Creator and lead developer of the **HL-V5 Framework**. Specialized in mitigating logical entropy and stabilizing inference structures in Language Models (LLMs & SLMs). My work focuses on the intersection of Inference Control Engineering and Deterministic AI alignment.
